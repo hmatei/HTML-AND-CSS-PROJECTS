@@ -1,0 +1,19 @@
+/*Applying google font*/
+body{ 
+    font-family: 'Sofia', sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+.image-container img{
+    width: 300px;
+    border-radius: 10px;
+    border: none;
+    transition: 0.3s ease-in;
+}
+
+.image-container img:hover {
+    transform: scale(1.05);
+    box-shadow: 0px 15px 30px rgba(0,0,0,0.3);
+}
