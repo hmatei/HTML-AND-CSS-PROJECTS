@@ -1,0 +1,18 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color: white;
+    color:black;
+}
+
+/*This will style the inputs*/
+
+form input{
+    width: 250px;
+    margin: 10px 15px 10px 0px;
+    border: 2px solid #000000;
+    border-radius:5px;
+}
+
+
+
